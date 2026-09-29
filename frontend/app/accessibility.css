@@ -1,0 +1,109 @@
+/* Shared readable metadata and states across the dispatcher workspace. */
+:root {
+  --muted: #59645a;
+  --text-secondary: #59645a;
+  --text-warning: #76591e;
+  --text-danger: #963c2d;
+  --font-caption: 11px;
+}
+.breadcrumb,
+.eyebrow,
+.metric-label,
+.metric-value span,
+.metric-foot,
+.subtle,
+.route-meta,
+.calculation-note,
+.footer,
+.table-tools > span,
+.address-cell,
+th,
+.timeline-axis,
+.schedule-legend,
+.schedule-detail summary span,
+.history summary,
+.history button,
+.job-properties dt,
+.empty,
+.map-loading,
+.close,
+.segmented button,
+.status {
+  color: var(--text-secondary);
+}
+.section-title h2 span {
+  color: #52613f;
+}
+.map-loading {
+  color: #3d4b3d;
+}
+.attention p,
+.attention button,
+.validation {
+  color: var(--text-warning);
+}
+.status.unassigned,
+.explanations.reasons {
+  color: #87452b;
+}
+.validation-list .error {
+  color: var(--text-danger);
+}
+.metric-foot,
+.route-meta,
+.calculation-note,
+.footer,
+.dataset-select > span,
+.date-label > span,
+.eyebrow,
+.section-title h2 span,
+.subtle,
+th,
+.attention p,
+.attention button,
+.status,
+td small,
+.schedule-detail summary span,
+.history button,
+.provenance > div,
+.timeline-axis,
+.schedule-legend {
+  font-size: var(--font-caption);
+}
+table,
+.job-link,
+.address-cell,
+.map-label {
+  font-size: 12px;
+}
+.route-person {
+  font-size: 12px;
+}
+.route-count {
+  color: var(--text-secondary);
+  font-size: var(--font-caption);
+}
+.nav-label,
+.sidebar-bottom small {
+  color: #abb6a7;
+}
+.map-offline {
+  color: #5b512e;
+}
+.leaflet-control-attribution a {
+  color: #075a93;
+}
+.timeline-work {
+  font-size: 10px;
+}
+.timeline-work:hover {
+  filter: brightness(0.86);
+}
+
+.page-heading .eyebrow {
+  color: #ffd633;
+}
+
+.technical-tools > summary {
+  color: var(--text-secondary);
+}

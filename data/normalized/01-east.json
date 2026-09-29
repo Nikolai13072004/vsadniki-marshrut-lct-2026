@@ -1,0 +1,3302 @@
+{
+  "id": "east",
+  "name": "Восток",
+  "region": "Восток",
+  "date": "2026-08-17",
+  "timezone": "Europe/Moscow",
+  "revision": 1,
+  "jobs": [
+    {
+      "id": "35b2e2e34e-2",
+      "source_id": "74198",
+      "source_line": 2,
+      "address": "Москва, проспект Волгоградский, дом 128 к 5",
+      "raw_address": "Город Москва, пр-кт.Волгоградский, д. 128 к 5",
+      "district": "Кузьминки",
+      "location": {
+        "latitude": 55.700846,
+        "longitude": 37.7822191
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 1200,
+      "window_end": 1320,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": "car",
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-3",
+      "source_id": "86160",
+      "source_line": 3,
+      "address": "Москва, переулок Маяковского, дом 2",
+      "raw_address": "Город Москва, пер.Маяковского, д. 2",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.7397743,
+        "longitude": 37.6599082
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-4",
+      "source_id": "50104",
+      "source_line": 4,
+      "address": "Москва, улица Грайвороновская, дом 10 к 2",
+      "raw_address": "Город Москва, ул.Грайвороновская, д. 10 к 2",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.7183547,
+        "longitude": 37.7319259
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Заявка на подключение",
+      "bk_type": "Подключение",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-5",
+      "source_id": "46393",
+      "source_line": 5,
+      "address": "Москва, улица Михайлова, дом 14",
+      "raw_address": "Город Москва, ул.Михайлова, д. 14",
+      "district": "Рязанский",
+      "location": {
+        "latitude": 55.7270299,
+        "longitude": 37.7659603
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 1200,
+      "window_end": 1320,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-6",
+      "source_id": "10135",
+      "source_line": 6,
+      "address": "Москва, улица 3-я Институтская, дом 5 к 2",
+      "raw_address": "Город Москва, ул.3-я Институтская, д. 5 к 2",
+      "district": "Рязанский",
+      "location": {
+        "latitude": 55.7219922,
+        "longitude": 37.7821899
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-7",
+      "source_id": "18754",
+      "source_line": 7,
+      "address": "Москва, улица 1-я Новокузьминская, дом 16 к 1",
+      "raw_address": "Город Москва, ул.1-я Новокузьминская, д. 16 к 1",
+      "district": "Рязанский",
+      "location": {
+        "latitude": 55.714359,
+        "longitude": 37.7897959
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-8",
+      "source_id": "84627",
+      "source_line": 8,
+      "address": "Москва, улица Окская, дом 32",
+      "raw_address": "Город Москва, ул.Окская, д. 32",
+      "district": "Кузьминки",
+      "location": {
+        "latitude": 55.7144711,
+        "longitude": 37.7695221
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 1200,
+      "window_end": 1320,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-9",
+      "source_id": "61540",
+      "source_line": 9,
+      "address": "Москва, улица Юных Ленинцев, дом 84",
+      "raw_address": "Город Москва, ул.Юных Ленинцев, д. 84",
+      "district": "Кузьминки",
+      "location": {
+        "latitude": 55.6981178,
+        "longitude": 37.7786035
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 960,
+      "window_end": 1080,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-10",
+      "source_id": "74949",
+      "source_line": 10,
+      "address": "Москва, улица Международная, дом 28 стр. 1",
+      "raw_address": "Город Москва, ул.Международная, д. 28 стр. 1",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.7431752,
+        "longitude": 37.6878434
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-11",
+      "source_id": "41077",
+      "source_line": 11,
+      "address": "Москва, улица Новорогожская, дом 8",
+      "raw_address": "Город Москва, ул.Новорогожская, д. 8",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.740895,
+        "longitude": 37.6845796
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-12",
+      "source_id": "87693",
+      "source_line": 12,
+      "address": "Москва, улица Чистова, дом 12",
+      "raw_address": "Город Москва, ул.Чистова, д. 12",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.696506,
+        "longitude": 37.741942
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 960,
+      "window_end": 1080,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-13",
+      "source_id": "93086",
+      "source_line": 13,
+      "address": "Москва, улица Паперника, дом 19",
+      "raw_address": "Город Москва, ул.Паперника, д. 19",
+      "district": "Рязанский",
+      "location": {
+        "latitude": 55.7217574,
+        "longitude": 37.7907198
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-14",
+      "source_id": "57866",
+      "source_line": 14,
+      "address": "Москва, улица Окская, дом 48/2",
+      "raw_address": "Город Москва, ул.Окская, д. 48/2",
+      "district": "Рязанский",
+      "location": {
+        "latitude": 55.7176399,
+        "longitude": 37.7794008
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": "car",
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-15",
+      "source_id": "35675",
+      "source_line": 15,
+      "address": "Москва, улица Трофимова, дом 24 к 2",
+      "raw_address": "Город Москва, ул.Трофимова, д. 24 к 2",
+      "district": "Южнопортовый",
+      "location": {
+        "latitude": 55.7020048,
+        "longitude": 37.6768493
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 960,
+      "window_end": 1080,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-16",
+      "source_id": "82388",
+      "source_line": 16,
+      "address": "Москва, улица 1-я Дубровская, дом 6",
+      "raw_address": "Город Москва, ул.1-я Дубровская, д. 6",
+      "district": "Южнопортовый",
+      "location": {
+        "latitude": 55.7267393,
+        "longitude": 37.6695609
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-17",
+      "source_id": "23380",
+      "source_line": 17,
+      "address": "Москва, улица Рогожский Вал, дом 2/50",
+      "raw_address": "Город Москва, ул.Рогожский Вал, д. 2/50",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.7456189,
+        "longitude": 37.6777676
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-18",
+      "source_id": "37272",
+      "source_line": 18,
+      "address": "Москва, улица Талалихина, дом 2/1 к 4",
+      "raw_address": "Город Москва, ул.Талалихина, д. 2/1 к 4",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.7369925,
+        "longitude": 37.6733454
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-19",
+      "source_id": "71388",
+      "source_line": 19,
+      "address": "Москва, улица Артюхиной, дом 20А",
+      "raw_address": "Город Москва, ул.Артюхиной, д. 20А",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.6972845,
+        "longitude": 37.7365767
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-20",
+      "source_id": "34366",
+      "source_line": 20,
+      "address": "Москва, улица Малышева, дом 13",
+      "raw_address": "Город Москва, ул.Малышева, д. 13",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.6980379,
+        "longitude": 37.7438382
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-21",
+      "source_id": "67554",
+      "source_line": 21,
+      "address": "Москва, улица Бронницкая, дом 12",
+      "raw_address": "Город Москва, ул.Бронницкая, д. 12",
+      "district": "Нижегородский",
+      "location": {
+        "latitude": 55.7314152,
+        "longitude": 37.759554
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Заявка на подключение",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-22",
+      "source_id": "94409",
+      "source_line": 22,
+      "address": "Москва, улица Авиамоторная, дом 14",
+      "raw_address": "Город Москва, ул.Авиамоторная, д. 14",
+      "district": "Лефортово",
+      "location": {
+        "latitude": 55.7523201,
+        "longitude": 37.7153975
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-23",
+      "source_id": "10245",
+      "source_line": 23,
+      "address": "Москва, улица Фёдора Полетаева, дом 2 к 6",
+      "raw_address": "Город Москва, ул.Фёдора Полетаева, д. 2 к 6",
+      "district": "Кузьминки",
+      "location": {
+        "latitude": 55.7136559,
+        "longitude": 37.7719481
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-24",
+      "source_id": "52405",
+      "source_line": 24,
+      "address": "Москва, улица Зарайская, дом 51 к 2",
+      "raw_address": "Город Москва, ул.Зарайская, д. 51 к 2",
+      "district": "Рязанский",
+      "location": {
+        "latitude": 55.7279678,
+        "longitude": 37.7772242
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-25",
+      "source_id": "30769",
+      "source_line": 25,
+      "address": "Москва, улица Саратовская, дом 14/1",
+      "raw_address": "Город Москва, ул.Саратовская, д. 14/1",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.7145577,
+        "longitude": 37.7378743
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-26",
+      "source_id": "98182",
+      "source_line": 26,
+      "address": "Москва, улица Нижегородская, дом 63",
+      "raw_address": "Город Москва, ул.Нижегородская, д. 63",
+      "district": "Нижегородский",
+      "location": {
+        "latitude": 55.7324552,
+        "longitude": 37.7186987
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Заявка на подключение",
+      "bk_type": "Подключение",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": "car",
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-27",
+      "source_id": "76082",
+      "source_line": 27,
+      "address": "Москва, улица Смирновская, дом 6",
+      "raw_address": "Город Москва, ул.Смирновская, д. 6",
+      "district": "Нижегородский",
+      "location": {
+        "latitude": 55.7367411,
+        "longitude": 37.7085631
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Заказ подключения/Дозаказ оборудования",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-28",
+      "source_id": "29890",
+      "source_line": 28,
+      "address": "Москва, улица Нижегородская, дом 61",
+      "raw_address": "Город Москва, ул.Нижегородская, д. 61",
+      "district": "Нижегородский",
+      "location": {
+        "latitude": 55.732503,
+        "longitude": 37.7178025
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-29",
+      "source_id": "77563",
+      "source_line": 29,
+      "address": "Москва, улица Зеленодольская, дом 28Б",
+      "raw_address": "Город Москва, ул.Зеленодольская, д. 28Б",
+      "district": "Кузьминки",
+      "location": {
+        "latitude": 55.7118436,
+        "longitude": 37.7708367
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-30",
+      "source_id": "53587",
+      "source_line": 30,
+      "address": "Москва, улица Артюхиной, дом 16",
+      "raw_address": "Город Москва, ул.Артюхиной, д. 16",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.6984967,
+        "longitude": 37.7377998
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-31",
+      "source_id": "82808",
+      "source_line": 31,
+      "address": "Москва, улица 3-я Карачаровская, дом 4 к 1",
+      "raw_address": "Город Москва, ул.3-я Карачаровская, д. 4 к 1",
+      "district": "Нижегородский",
+      "location": {
+        "latitude": 55.7337571,
+        "longitude": 37.7445677
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-32",
+      "source_id": "7939",
+      "source_line": 32,
+      "address": "Москва, проспект Рязанский, дом 73",
+      "raw_address": "Город Москва, пр-кт.Рязанский, д. 73",
+      "district": "Рязанский",
+      "location": {
+        "latitude": 55.7184554,
+        "longitude": 37.7902547
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-33",
+      "source_id": "92031",
+      "source_line": 33,
+      "address": "Москва, улица Ферганская, дом 28/7",
+      "raw_address": "Город Москва, ул.Ферганская, д. 28/7",
+      "district": "Выхино",
+      "location": {
+        "latitude": 55.7010782,
+        "longitude": 37.8250104
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Дозаказ оборудования",
+      "bk_type": "Дозаказ",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 20,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-34",
+      "source_id": "31260",
+      "source_line": 34,
+      "address": "Москва, бульвар Самаркандский Квартал 137а, дом к5",
+      "raw_address": "Город Москва, б-р.Самаркандский Квартал 137а, д. к5",
+      "district": "Выхино",
+      "location": {
+        "latitude": 55.7000662,
+        "longitude": 37.8193568
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Дозаказ оборудования",
+      "bk_type": "Дозаказ",
+      "window_start": 1200,
+      "window_end": 1320,
+      "duration_minutes": 20,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-35",
+      "source_id": "69967",
+      "source_line": 35,
+      "address": "Москва, улица Боровая, дом 14",
+      "raw_address": "Город Москва, ул.Боровая, д. 14",
+      "district": "Лефортово",
+      "location": {
+        "latitude": 55.7693914,
+        "longitude": 37.7156999
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Заказ подключения/Дозаказ оборудования",
+      "bk_type": "Дозаказ",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 20,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-36",
+      "source_id": "22634",
+      "source_line": 36,
+      "address": "Москва, улица Стройковская, дом 8",
+      "raw_address": "Город Москва, ул.Стройковская, д. 8",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.7347571,
+        "longitude": 37.6737801
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Дозаказ оборудования",
+      "bk_type": "Дозаказ",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 20,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-37",
+      "source_id": "98815",
+      "source_line": 37,
+      "address": "Москва, улица 2-я Синичкина, дом 9 к 1",
+      "raw_address": "Город Москва, ул.2-я Синичкина, д. 9 к 1",
+      "district": "Лефортово",
+      "location": {
+        "latitude": 55.76264,
+        "longitude": 37.7130584
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Дозаказ оборудования",
+      "bk_type": "Дозаказ",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 20,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-38",
+      "source_id": "33527",
+      "source_line": 38,
+      "address": "Москва, проезд Орехово-Зуевский, дом 18/8",
+      "raw_address": "Москва, проезд Орехово-Зуевский, д. 18/8",
+      "district": "Нижегородский",
+      "location": {
+        "latitude": 55.7311522,
+        "longitude": 37.7534715
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Дозаказ оборудования",
+      "bk_type": "Дозаказ",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 20,
+      "required_skill": "connection",
+      "required_transport": "car",
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-39",
+      "source_id": "21571",
+      "source_line": 39,
+      "address": "Москва, переулок Большой Рогожский, дом 10 к 2",
+      "raw_address": "Город Москва, пер.Большой Рогожский, д. 10 к 2",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.7420001,
+        "longitude": 37.6676447
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-40",
+      "source_id": "47670",
+      "source_line": 40,
+      "address": "Москва, улица Машкова, дом 13 стр. 1",
+      "raw_address": "Город Москва, ул.Машкова, д. 13 стр. 1",
+      "district": "Басманный",
+      "location": {
+        "latitude": 55.764253,
+        "longitude": 37.6518889
+      },
+      "geo_quality": "house",
+      "geo_note": "Из результатов запроса выбран точный адрес 13с1, а не соседний 2/13.",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 1200,
+      "window_end": 1320,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-41",
+      "source_id": "17892",
+      "source_line": 41,
+      "address": "Москва, улица 11-я Текстильщиков, дом 10",
+      "raw_address": "Город Москва, ул.11-я Текстильщиков, д. 10",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.706885,
+        "longitude": 37.7431987
+      },
+      "geo_quality": "house",
+      "geo_note": "Исправлен порядок слов в запросе геокодера.",
+      "work_type": "Переключение на Гбит/с",
+      "bk_type": "Локальная заявка",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-42",
+      "source_id": "51115",
+      "source_line": 42,
+      "address": "Москва, улица Паперника, дом 18",
+      "raw_address": "Город Москва, ул.Паперника, д. 18",
+      "district": "Рязанский",
+      "location": {
+        "latitude": 55.7213231,
+        "longitude": 37.7935117
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-43",
+      "source_id": "76643",
+      "source_line": 43,
+      "address": "Москва, улица Большая Калитниковская, дом 38",
+      "raw_address": "Город Москва, ул.Большая Калитниковская, д. 38",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.7361675,
+        "longitude": 37.6862063
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-44",
+      "source_id": "43506",
+      "source_line": 44,
+      "address": "Москва, бульвар Самаркандский Квартал 137а, дом к5",
+      "raw_address": "Город Москва, б-р.Самаркандский Квартал 137а, д. к5",
+      "district": "Выхино",
+      "location": {
+        "latitude": 55.7000662,
+        "longitude": 37.8193568
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Переключение на Гбит/с",
+      "bk_type": "Локальная заявка",
+      "window_start": 1200,
+      "window_end": 1320,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-45",
+      "source_id": "48174",
+      "source_line": 45,
+      "address": "Москва, улица Маршала Чуйкова, дом 9 к 2",
+      "raw_address": "Город Москва, ул.Маршала Чуйкова, д. 9 к 2",
+      "district": "Кузьминки",
+      "location": {
+        "latitude": 55.6971444,
+        "longitude": 37.7620114
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Мониторинг",
+      "bk_type": "Локальная заявка",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-46",
+      "source_id": "48227",
+      "source_line": 46,
+      "address": "Москва, улица Талалихина, дом 16",
+      "raw_address": "Город Москва, ул.Талалихина, д. 16",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.7355002,
+        "longitude": 37.676817
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-47",
+      "source_id": "60720",
+      "source_line": 47,
+      "address": "Москва, бульвар Волжский, дом 50 к 2",
+      "raw_address": "Город Москва, б-р.Волжский, д. 50 к 2",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.6965373,
+        "longitude": 37.7522297
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-48",
+      "source_id": "48238",
+      "source_line": 48,
+      "address": "Москва, улица Артюхиной, дом 3",
+      "raw_address": "Город Москва, ул.Артюхиной, д. 3",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.7029289,
+        "longitude": 37.7378149
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Разрывы",
+      "bk_type": "Локальная заявка",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-49",
+      "source_id": "41912",
+      "source_line": 49,
+      "address": "Москва, проезд Ферганский, дом 7 к 5",
+      "raw_address": "Город Москва, проезд.Ферганский, д. 7 к 5",
+      "district": "Выхино",
+      "location": {
+        "latitude": 55.6940635,
+        "longitude": 37.8248567
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-50",
+      "source_id": "4893",
+      "source_line": 50,
+      "address": "Москва, улица Земляной Вал, дом 24/30 стр. 1",
+      "raw_address": "Город Москва, ул.Земляной Вал, д. 24/30 стр. 1",
+      "district": "Басманный",
+      "location": {
+        "latitude": 55.7586892,
+        "longitude": 37.6571501
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": "car",
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-51",
+      "source_id": "68476",
+      "source_line": 51,
+      "address": "Москва, улица 3-я Карачаровская, дом 8 к 2",
+      "raw_address": "Город Москва, ул.3-я Карачаровская, д. 8 к 2",
+      "district": "Нижегородский",
+      "location": {
+        "latitude": 55.7333702,
+        "longitude": 37.7471726
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Разрывы",
+      "bk_type": "Локальная заявка",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-52",
+      "source_id": "50219",
+      "source_line": 52,
+      "address": "Москва, улица Чистопольская, дом 2 к 2",
+      "raw_address": "Город Москва, ул.Чистопольская, д. 2 к 2",
+      "district": "Нижегородский",
+      "location": {
+        "latitude": 55.7306095,
+        "longitude": 37.758355
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-53",
+      "source_id": "76678",
+      "source_line": 53,
+      "address": "Москва, улица Боровая, дом 12",
+      "raw_address": "Город Москва, ул.Боровая, д. 12",
+      "district": "Лефортово",
+      "location": {
+        "latitude": 55.770292,
+        "longitude": 37.7147651
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Работа с кабелем",
+      "bk_type": "Локальная заявка",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-54",
+      "source_id": "47330",
+      "source_line": 54,
+      "address": "Москва, улица Красноказарменная, дом 9Б стр. 1",
+      "raw_address": "Город Москва, ул.Красноказарменная, д. 9Б стр. 1",
+      "district": "Лефортово",
+      "location": {
+        "latitude": 55.758735,
+        "longitude": 37.699531
+      },
+      "geo_quality": "house",
+      "geo_note": "Координаты объекта из ссылки маршрута 2ГИС; обозначение владения 9Б ст1 соответствует дому 9Б стр.1 в CSV.",
+      "work_type": "Роутер. Замена техническим специалистом",
+      "bk_type": "Локальная заявка",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-55",
+      "source_id": "26645",
+      "source_line": 55,
+      "address": "Москва, улица Сторожевая, дом 31",
+      "raw_address": "Город Москва, ул.Сторожевая, д. 31",
+      "district": "Лефортово",
+      "location": {
+        "latitude": 55.7647986,
+        "longitude": 37.7168314
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "TVE/ENT. Другие ошибки",
+      "bk_type": "Локальная заявка",
+      "window_start": 960,
+      "window_end": 1080,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-56",
+      "source_id": "24076",
+      "source_line": 56,
+      "address": "Москва, улица Новорогожская, дом 10",
+      "raw_address": "Город Москва, ул.Новорогожская, д. 10",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.740048,
+        "longitude": 37.6832489
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Роутер. Замена техническим специалистом",
+      "bk_type": "Локальная заявка",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-57",
+      "source_id": "30243",
+      "source_line": 57,
+      "address": "Москва, улица Нижегородская, дом 25",
+      "raw_address": "Город Москва, ул.Нижегородская, д. 25",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.7374783,
+        "longitude": 37.6944616
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "TVE/ENT. Замена приставки техником",
+      "bk_type": "Локальная заявка",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-58",
+      "source_id": "32807",
+      "source_line": 58,
+      "address": "Москва, улица Окская, дом 6 к 1",
+      "raw_address": "Город Москва, ул.Окская, д. 6 к 1",
+      "district": "Кузьминки",
+      "location": {
+        "latitude": 55.710308,
+        "longitude": 37.7514109
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Работа с кабелем",
+      "bk_type": "Локальная заявка",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-59",
+      "source_id": "73572",
+      "source_line": 59,
+      "address": "Москва, проспект Волгоградский, дом 97 к 1",
+      "raw_address": "Город Москва, пр-кт.Волгоградский, д. 97 к 1",
+      "district": "Кузьминки",
+      "location": {
+        "latitude": 55.7078213,
+        "longitude": 37.7518635
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-60",
+      "source_id": "41962",
+      "source_line": 60,
+      "address": "Москва, бульвар Самаркандский, дом 32к1",
+      "raw_address": "г.Город Москва, б-р.Самаркандский, д. 32к1",
+      "district": "Выхино",
+      "location": {
+        "latitude": 55.6977027,
+        "longitude": 37.8126854
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Информация",
+      "bk_type": "Глобальная проблема",
+      "window_start": 960,
+      "window_end": 1080,
+      "duration_minutes": 80,
+      "required_skill": "emergency",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-61",
+      "source_id": "97886",
+      "source_line": 61,
+      "address": "Москва, бульвар Самаркандский, дом 10к2",
+      "raw_address": "г.Город Москва, б-р.Самаркандский, д. 10к2",
+      "district": "Выхино",
+      "location": {
+        "latitude": 55.7064866,
+        "longitude": 37.8263129
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Информация",
+      "bk_type": "Глобальная проблема",
+      "window_start": 960,
+      "window_end": 1080,
+      "duration_minutes": 80,
+      "required_skill": "emergency",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-62",
+      "source_id": "17349",
+      "source_line": 62,
+      "address": "Москва, улица Новорогожская, дом 20",
+      "raw_address": "г.Город Москва, ул.Новорогожская, д. 20",
+      "district": "Таганский",
+      "location": {
+        "latitude": 55.73903,
+        "longitude": 37.6880379
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Информация",
+      "bk_type": "Глобальная проблема",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 80,
+      "required_skill": "emergency",
+      "required_transport": "car",
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-63",
+      "source_id": "54964",
+      "source_line": 63,
+      "address": "Москва, улица Ташкентская, дом 16к2",
+      "raw_address": "г.Город Москва, ул.Ташкентская, д. 16к2",
+      "district": "Выхино",
+      "location": {
+        "latitude": 55.703974,
+        "longitude": 37.8130634
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Информация",
+      "bk_type": "Глобальная проблема",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 80,
+      "required_skill": "emergency",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-64",
+      "source_id": "21367",
+      "source_line": 64,
+      "address": "Москва, улица Саратовская, дом 16",
+      "raw_address": "г.Город Москва, ул.Саратовская, д. 16",
+      "district": "Текстильщики",
+      "location": {
+        "latitude": 55.7150007,
+        "longitude": 37.7401969
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Авария",
+      "bk_type": "Глобальная проблема",
+      "window_start": 1200,
+      "window_end": 1320,
+      "duration_minutes": 80,
+      "required_skill": "emergency",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "urgent",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-65",
+      "source_id": "24980",
+      "source_line": 65,
+      "address": "Москва, набережная Семеновская, дом 3/1к2",
+      "raw_address": "г.Город Москва, наб.Семеновская, д. 3/1к2",
+      "district": "Басманный",
+      "location": {
+        "latitude": 55.7785658,
+        "longitude": 37.7082611
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Авария",
+      "bk_type": "Глобальная проблема",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 80,
+      "required_skill": "emergency",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "urgent",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-66",
+      "source_id": "15648",
+      "source_line": 66,
+      "address": "Москва, набережная Семеновская, дом 2/1",
+      "raw_address": "г.Город Москва, наб.Семеновская, д. 2/1",
+      "district": "Басманный",
+      "location": {
+        "latitude": 55.7768615,
+        "longitude": 37.7046831
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Информация",
+      "bk_type": "Глобальная проблема",
+      "window_start": 960,
+      "window_end": 1080,
+      "duration_minutes": 80,
+      "required_skill": "emergency",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "35b2e2e34e-67",
+      "source_id": "57299",
+      "source_line": 67,
+      "address": "Москва, проспект Волгоградский, дом 128к1",
+      "raw_address": "г.Город Москва, пр-кт.Волгоградский, д. 128к1",
+      "district": "Кузьминки",
+      "location": {
+        "latitude": 55.7023381,
+        "longitude": 37.7828754
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Авария",
+      "bk_type": "Глобальная проблема",
+      "window_start": 1200,
+      "window_end": 1320,
+      "duration_minutes": 80,
+      "required_skill": "emergency",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "urgent",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "provided",
+        "window_start": "provided",
+        "window_end": "provided",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "configured",
+        "required_skill": "configured",
+        "priority": "configured"
+      },
+      "manual_fields": []
+    }
+  ],
+  "engineers": [
+    {
+      "id": "engineer-01",
+      "name": "Бригада Соколов",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local",
+        "connection",
+        "emergency"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Кабельный комплект",
+        "Роутер",
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-02",
+      "name": "Бригада Мельников",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "connection",
+        "local"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Кабельный комплект",
+        "Роутер",
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-03",
+      "name": "Бригада Матвеев",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local"
+      ],
+      "transport": "car",
+      "equipment": [
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-04",
+      "name": "Бригада Попов",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "connection",
+        "emergency"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Кабельный комплект",
+        "Роутер",
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-05",
+      "name": "Бригада Арташкин",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local",
+        "emergency"
+      ],
+      "transport": "walk",
+      "equipment": [
+        "Кабельный комплект",
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-06",
+      "name": "Бригада Комарь",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "connection"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Кабельный комплект",
+        "Роутер"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-07",
+      "name": "Бригада Каушнян",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local",
+        "connection",
+        "emergency"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Кабельный комплект",
+        "Роутер",
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-08",
+      "name": "Бригада Зверев",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "connection",
+        "local"
+      ],
+      "transport": "bicycle",
+      "equipment": [
+        "Кабельный комплект",
+        "Роутер",
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-09",
+      "name": "Бригада Перов",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-10",
+      "name": "Бригада Белузин",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "connection",
+        "emergency"
+      ],
+      "transport": "car",
+      "equipment": [
+        "Кабельный комплект",
+        "Роутер",
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-11",
+      "name": "Бригада Гусаковский",
+      "start_location": {
+        "latitude": 55.7022013,
+        "longitude": 37.7739593
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local",
+        "emergency"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Кабельный комплект",
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "configured",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "engineer-12",
+      "name": "Бригада Свеженцев",
+      "start_location": {
+        "latitude": 55.7023381,
+        "longitude": 37.7828754
+      },
+      "start_mode": "home",
+      "start_address": "Домашняя стартовая точка (синтетика)",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "connection"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Кабельный комплект",
+        "Роутер"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "provided",
+        "start_location": "synthetic",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic"
+      },
+      "manual_fields": []
+    }
+  ],
+  "office_address": "г. Москва, ул Юных Ленинцев, д 83с 4",
+  "office_location": {
+    "latitude": 55.7022013,
+    "longitude": 37.7739593
+  },
+  "office_geo_quality": "address_variant",
+  "office_geo_note": "В строке офиса указано 83с4; картографические источники указывают 83к4. Используется явно отмеченный вариант адреса, доступный для изменения.",
+  "settings": {
+    "requirements_version": 8,
+    "seed": 2026,
+    "time_limit_seconds": 15,
+    "solution_limit": 80,
+    "road_factor": 1.3,
+    "speeds_kmh": {
+      "car": 30.0,
+      "walk": 5.0,
+      "bicycle": 15.0,
+      "public": 20.0
+    },
+    "shift_start": 540,
+    "shift_end": 1320,
+    "durations": {
+      "Информация": 30,
+      "Мониторинг": 30,
+      "Нет линка": 45,
+      "Разрывы": 45,
+      "Низкая скорость": 45,
+      "Рост ошибок на порту": 45,
+      "IP-адрес 169...": 45,
+      "TVE/ENT. Другие ошибки": 45,
+      "Конвергенция абонента": 60,
+      "Переключение на Гбит/с": 60,
+      "Заявка на подключение": 90,
+      "Заказ подключения/Дозаказ оборудования": 90,
+      "Дозаказ оборудования": 90,
+      "Работа с кабелем": 90,
+      "Роутер. Замена техническим специалистом": 90,
+      "TVE/ENT. Замена приставки техником": 90,
+      "ТВ. Замена приставки техником": 90,
+      "Авария": 90
+    },
+    "normative_durations": {
+      "Подключение": 90,
+      "Глобальная проблема": 100,
+      "Дозаказ": 40,
+      "Локальная заявка": 50
+    },
+    "normative_service_durations": {
+      "Подключение": 70,
+      "Глобальная проблема": 80,
+      "Дозаказ": 20,
+      "Локальная заявка": 30
+    },
+    "normative_travel_mode": "separate",
+    "skill_mapping": {
+      "Локальная заявка": "local",
+      "Подключение": "connection",
+      "Дозаказ": "connection",
+      "Глобальная проблема": "emergency"
+    },
+    "routing_provider": "estimate",
+    "equipment_enabled": true,
+    "equipment_catalog": [
+      "Тестер линии",
+      "Роутер",
+      "Приставка",
+      "Кабельный комплект"
+    ],
+    "equipment_by_skill": {
+      "local": [
+        "Тестер линии"
+      ],
+      "connection": [
+        "Роутер",
+        "Кабельный комплект"
+      ],
+      "emergency": [
+        "Тестер линии",
+        "Кабельный комплект"
+      ]
+    },
+    "equipment_by_work_type": {
+      "Подключение": [
+        "Роутер",
+        "Кабельный комплект"
+      ],
+      "Глобальная проблема": [
+        "Тестер линии",
+        "Кабельный комплект"
+      ],
+      "Дозаказ": [
+        "Роутер"
+      ],
+      "Локальная заявка": [
+        "Тестер линии"
+      ]
+    },
+    "sla_enabled": false,
+    "sla_basis": "start",
+    "sla_penalty": 1,
+    "sla_risk_buffer": 15,
+    "change_penalty": 1,
+    "transport_demo_enabled": true,
+    "demo_event_time": 780,
+    "demo_urgent_duration": 80,
+    "demo_urgent_window": 120
+  },
+  "issues": [],
+  "source_files": [
+    "Восток Синтетические данные.csv",
+    "Восток Контрольное распределение..csv"
+  ],
+  "historical": [
+    {
+      "source_id": "305927238",
+      "engineer": "",
+      "status": "Не отправлена",
+      "window_start": "17.08.2026 20:00",
+      "window_end": "17.08.2026 22:00"
+    },
+    {
+      "source_id": "305838184",
+      "engineer": "Бригада Соколов",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305857695",
+      "engineer": "Бригада Мельников",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305849742",
+      "engineer": "Бригада Матвеев",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 20:00",
+      "window_end": "17.08.2026 22:00"
+    },
+    {
+      "source_id": "305886764",
+      "engineer": "Бригада Матвеев",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305893375",
+      "engineer": "Бригада Матвеев",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305738126",
+      "engineer": "Бригада Попов",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 20:00",
+      "window_end": "17.08.2026 22:00"
+    },
+    {
+      "source_id": "305821472",
+      "engineer": "Бригада Арташкин",
+      "status": "В пути",
+      "window_start": "17.08.2026 16:00",
+      "window_end": "17.08.2026 18:00"
+    },
+    {
+      "source_id": "305887331",
+      "engineer": "Бригада Соколов",
+      "status": "Отменена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305896844",
+      "engineer": "Бригада Соколов",
+      "status": "Отменена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305891560",
+      "engineer": "Бригада Мельников",
+      "status": "Отменена",
+      "window_start": "17.08.2026 16:00",
+      "window_end": "17.08.2026 18:00"
+    },
+    {
+      "source_id": "305828555",
+      "engineer": "Бригада Комарь",
+      "status": "Отменена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305919472",
+      "engineer": "Бригада Попов",
+      "status": "Отменена",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305886674",
+      "engineer": "Бригада Каушнян",
+      "status": "Отменена",
+      "window_start": "17.08.2026 16:00",
+      "window_end": "17.08.2026 18:00"
+    },
+    {
+      "source_id": "305866236",
+      "engineer": "Бригада Каушнян",
+      "status": "В работе",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305863399",
+      "engineer": "Бригада Соколов",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305853044",
+      "engineer": "Бригада Зверев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305885296",
+      "engineer": "Бригада Зверев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305888536",
+      "engineer": "Бригада Мельников",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305813811",
+      "engineer": "Бригада Матвеев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305825144",
+      "engineer": "Бригада Перов",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305890789",
+      "engineer": "Бригада Арташкин",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305482292",
+      "engineer": "Бригада Комарь",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305863056",
+      "engineer": "Бригада Комарь",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305622276",
+      "engineer": "Бригада Попов",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305838445",
+      "engineer": "Бригада Попов",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305896248",
+      "engineer": "Бригада Попов",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305857498",
+      "engineer": "Бригада Каушнян",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305534517",
+      "engineer": "Бригада Мельников",
+      "status": "Просрочена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305825274",
+      "engineer": "Бригада Матвеев",
+      "status": "Просрочена",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305889650",
+      "engineer": "Бригада Каушнян",
+      "status": "Просрочена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305929608",
+      "engineer": "",
+      "status": "Не отправлена",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305799343",
+      "engineer": "Бригада Белузин",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 20:00",
+      "window_end": "17.08.2026 22:00"
+    },
+    {
+      "source_id": "305868471",
+      "engineer": "Бригада Перов",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305895738",
+      "engineer": "Бригада Гусаковский",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305898240",
+      "engineer": "Бригада Гусаковский",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305549935",
+      "engineer": "Бригада Гусаковский",
+      "status": "Просрочена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305898233",
+      "engineer": "Бригада Соколов",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305896864",
+      "engineer": "Бригада Свеженцев",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 20:00",
+      "window_end": "17.08.2026 22:00"
+    },
+    {
+      "source_id": "305868415",
+      "engineer": "Бригада Комарь",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305910361",
+      "engineer": "Бригада Матвеев",
+      "status": "В пути",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305911691",
+      "engineer": "Бригада Соколов",
+      "status": "В работе",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305817137",
+      "engineer": "Бригада Белузин",
+      "status": "В работе",
+      "window_start": "17.08.2026 20:00",
+      "window_end": "17.08.2026 22:00"
+    },
+    {
+      "source_id": "305392043",
+      "engineer": "Бригада Попов",
+      "status": "В работе",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305882940",
+      "engineer": "Бригада Зверев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305894885",
+      "engineer": "Бригада Мельников",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305897279",
+      "engineer": "Бригада Мельников",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305895612",
+      "engineer": "Бригада Белузин",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305891993",
+      "engineer": "Бригада Свеженцев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305884768",
+      "engineer": "Бригада Матвеев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305887986",
+      "engineer": "Бригада Матвеев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305887351",
+      "engineer": "Бригада Перов",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305896987",
+      "engineer": "Бригада Перов",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305888304",
+      "engineer": "Бригада Гусаковский",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 16:00",
+      "window_end": "17.08.2026 18:00"
+    },
+    {
+      "source_id": "305895089",
+      "engineer": "Бригада Гусаковский",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 12:00",
+      "window_end": "17.08.2026 14:00"
+    },
+    {
+      "source_id": "305913737",
+      "engineer": "Бригада Гусаковский",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 18:00",
+      "window_end": "17.08.2026 20:00"
+    },
+    {
+      "source_id": "305880939",
+      "engineer": "Бригада Арташкин",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305887546",
+      "engineer": "Бригада Арташкин",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305898346",
+      "engineer": "Бригада Белузин",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 16:00",
+      "window_end": "17.08.2026 18:00"
+    },
+    {
+      "source_id": "305898353",
+      "engineer": "Бригада Белузин",
+      "status": "Отправлена",
+      "window_start": "17.08.2026 16:00",
+      "window_end": "17.08.2026 18:00"
+    },
+    {
+      "source_id": "305898320",
+      "engineer": "Бригада Соколов",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 14:00",
+      "window_end": "17.08.2026 16:00"
+    },
+    {
+      "source_id": "305883073",
+      "engineer": "Бригада Белузин",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305896177",
+      "engineer": "Бригада Свеженцев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 20:00",
+      "window_end": "17.08.2026 22:00"
+    },
+    {
+      "source_id": "305896956",
+      "engineer": "Бригада Свеженцев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 10:00",
+      "window_end": "17.08.2026 12:00"
+    },
+    {
+      "source_id": "305898371",
+      "engineer": "Бригада Свеженцев",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 16:00",
+      "window_end": "17.08.2026 18:00"
+    },
+    {
+      "source_id": "305914822",
+      "engineer": "Бригада Каушнян",
+      "status": "Выполнена",
+      "window_start": "17.08.2026 20:00",
+      "window_end": "17.08.2026 22:00"
+    }
+  ]
+}

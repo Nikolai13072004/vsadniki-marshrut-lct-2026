@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Логотип продукта «маршрут»</title>
+  <path d="M10 48V20c0-4 5-6 8-3l14 17 14-17c3-3 8-1 8 3v28" fill="none" stroke="#141414" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="10" cy="48" r="6" fill="#FFC800" stroke="#141414" stroke-width="3"/>
+  <circle cx="54" cy="20" r="6" fill="#FFC800" stroke="#141414" stroke-width="3"/>
+</svg>

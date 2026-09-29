@@ -1,0 +1,32 @@
+{
+  "name": "engineer-routing-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "node scripts/start-production.mjs",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write app components lib tests scripts proxy.ts playwright.config.ts next.config.ts",
+    "format:check": "prettier --check app components lib tests scripts proxy.ts playwright.config.ts next.config.ts",
+    "test:e2e": "playwright test",
+    "test:metrics": "node --test scripts/check-comparison.mjs"
+  },
+  "dependencies": {
+    "leaflet": "1.9.4",
+    "lucide-react": "^1.48.0",
+    "next": "16.3.5",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.63.0",
+    "@types/leaflet": "^1.9.21",
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "prettier": "3.9.6",
+    "typescript": "^5.9.3"
+  }
+}

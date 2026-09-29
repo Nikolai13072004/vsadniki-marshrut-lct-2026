@@ -1,0 +1,711 @@
+{
+  "id": "demo",
+  "name": "Демонстрация · 12 заявок",
+  "region": "Демо / Югоцентр",
+  "date": "2026-08-17",
+  "timezone": "Europe/Moscow",
+  "revision": 1,
+  "jobs": [
+    {
+      "id": "demo-j01",
+      "source_id": "Д-001",
+      "source_line": 2,
+      "address": "Москва, проезд 3-й Павелецкий, дом 9",
+      "raw_address": "Город Москва, проезд.3-й Павелецкий, д. 9",
+      "district": "Даниловский",
+      "location": {
+        "latitude": 55.7107376,
+        "longitude": 37.6405504
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 1080,
+      "window_end": 1200,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": "car",
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j02",
+      "source_id": "Д-002",
+      "source_line": 32,
+      "address": "Москва, улица Шверника, дом 5 к 2",
+      "raw_address": "Город Москва, ул.Шверника, д. 5 к 2",
+      "district": "Академический",
+      "location": {
+        "latitude": 55.6945964,
+        "longitude": 37.5827805
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 1020,
+      "window_end": 1140,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j03",
+      "source_id": "Д-003",
+      "source_line": 30,
+      "address": "Москва, проспект 60-летия Октября, дом 17",
+      "raw_address": "Город Москва, пр-кт.60-летия Октября, д. 17",
+      "district": "Академический",
+      "location": {
+        "latitude": 55.6953306,
+        "longitude": 37.5798241
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Дозаказ",
+      "window_start": 960,
+      "window_end": 1080,
+      "duration_minutes": 20,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j04",
+      "source_id": "Д-004",
+      "source_line": 3,
+      "address": "Москва, улица Восточная, дом 2 к 2",
+      "raw_address": "Город Москва, ул.Восточная, д. 2 к 2",
+      "district": "Даниловский",
+      "location": {
+        "latitude": 55.7169675,
+        "longitude": 37.6604783
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": "car",
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j05",
+      "source_id": "Д-005",
+      "source_line": 33,
+      "address": "Москва, улица Академика Миллионщикова, дом 13 к 1",
+      "raw_address": "Город Москва, ул.Академика Миллионщикова, д. 13 к 1",
+      "district": "Нагатино - Садовники",
+      "location": {
+        "latitude": 55.6700206,
+        "longitude": 37.6498005
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 660,
+      "window_end": 780,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j06",
+      "source_id": "Д-006",
+      "source_line": 57,
+      "address": "Москва, проспект Ленинский, дом 70/11",
+      "raw_address": "г.Город Москва, пр-кт.Ленинский, д. 70/11",
+      "district": "Гагаринский",
+      "location": {
+        "latitude": 55.6879261,
+        "longitude": 37.5407755
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Информация",
+      "bk_type": "Глобальная проблема",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 80,
+      "required_skill": "emergency",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j07",
+      "source_id": "Д-007",
+      "source_line": 34,
+      "address": "Москва, улица Винокурова, дом 5/6 к 2",
+      "raw_address": "Город Москва, ул.Винокурова, д. 5/6 к 2",
+      "district": "Академический",
+      "location": {
+        "latitude": 55.6898618,
+        "longitude": 37.5850112
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "TVE/ENT. Другие ошибки",
+      "bk_type": "Локальная заявка",
+      "window_start": 780,
+      "window_end": 900,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": "car",
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j08",
+      "source_id": "Д-008",
+      "source_line": 4,
+      "address": "Москва, улица Дубининская, дом 59 к 2",
+      "raw_address": "Город Москва, ул.Дубининская, д. 59 к 2",
+      "district": "GPON Даниловский",
+      "location": {
+        "latitude": 55.719355126800274,
+        "longitude": 37.637070138904214
+      },
+      "geo_quality": "address_variant",
+      "geo_note": "В CSV 59 к2. Временно используется координата площадки по адресу 59 к2 ст1 из перечня mos.ru, строка 44390. Это приблизительная точка, не проверенный подъезд; требуется сверка объекта заявки.",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 840,
+      "window_end": 960,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j09",
+      "source_id": "Д-009",
+      "source_line": 35,
+      "address": "Москва, проспект Балаклавский, дом 50",
+      "raw_address": "Город Москва, пр-кт.Балаклавский, д. 50",
+      "district": "Зюзино",
+      "location": {
+        "latitude": 55.6494293,
+        "longitude": 37.5705283
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 900,
+      "window_end": 1020,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j10",
+      "source_id": "Д-010",
+      "source_line": 31,
+      "address": "Москва, улица Ремизова, дом 15 к 2",
+      "raw_address": "Город Москва, ул.Ремизова, д. 15 к 2",
+      "district": "Котловка",
+      "location": {
+        "latitude": 55.6757919,
+        "longitude": 37.6040072
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Заказ подключения/Дозаказ оборудования",
+      "bk_type": "Дозаказ",
+      "window_start": 600,
+      "window_end": 720,
+      "duration_minutes": 20,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j11",
+      "source_id": "Д-011",
+      "source_line": 5,
+      "address": "Москва, улица Шверника, дом 18 к 2",
+      "raw_address": "Город Москва, ул.Шверника, д. 18 к 2",
+      "district": "Академический",
+      "location": {
+        "latitude": 55.6890678,
+        "longitude": 37.5927091
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Конвергенция абонента",
+      "bk_type": "Подключение",
+      "window_start": 720,
+      "window_end": 840,
+      "duration_minutes": 70,
+      "required_skill": "connection",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-j12",
+      "source_id": "Д-012",
+      "source_line": 36,
+      "address": "Москва, бульвар Симферопольский, дом 27",
+      "raw_address": "Город Москва, б-р.Симферопольский, д. 27",
+      "district": "Нагорный",
+      "location": {
+        "latitude": 55.6486775,
+        "longitude": 37.6062192
+      },
+      "geo_quality": "house",
+      "geo_note": "",
+      "work_type": "Нет линка",
+      "bk_type": "Локальная заявка",
+      "window_start": 540,
+      "window_end": 540,
+      "duration_minutes": 30,
+      "required_skill": "local",
+      "required_transport": null,
+      "required_equipment": [],
+      "priority": "normal",
+      "sla_deadline": null,
+      "provenance": {
+        "source_id": "synthetic",
+        "window_start": "synthetic",
+        "window_end": "synthetic",
+        "address": "computed",
+        "location": "computed",
+        "duration_minutes": "synthetic",
+        "required_skill": "synthetic",
+        "priority": "configured",
+        "required_transport": "synthetic"
+      },
+      "manual_fields": []
+    }
+  ],
+  "engineers": [
+    {
+      "id": "demo-e1",
+      "name": "Соколов Алексей",
+      "start_location": {
+        "latitude": 55.6647568,
+        "longitude": 37.6158385
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local",
+        "connection",
+        "emergency"
+      ],
+      "transport": "car",
+      "equipment": [
+        "Тестер линии",
+        "Роутер",
+        "Приставка",
+        "Кабельный комплект"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "synthetic",
+        "start_location": "synthetic",
+        "start_mode": "synthetic",
+        "start_address": "synthetic",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic",
+        "available": "synthetic",
+        "unavailable_from": "synthetic",
+        "manual_fields": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-e2",
+      "name": "Волкова Мария",
+      "start_location": {
+        "latitude": 55.6647568,
+        "longitude": 37.6158385
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local",
+        "connection"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Тестер линии",
+        "Роутер",
+        "Кабельный комплект"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "synthetic",
+        "start_location": "synthetic",
+        "start_mode": "synthetic",
+        "start_address": "synthetic",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic",
+        "available": "synthetic",
+        "unavailable_from": "synthetic",
+        "manual_fields": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-e3",
+      "name": "Мельников Илья",
+      "start_location": {
+        "latitude": 55.6647568,
+        "longitude": 37.6158385
+      },
+      "start_mode": "office",
+      "start_address": "",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local",
+        "emergency"
+      ],
+      "transport": "public",
+      "equipment": [
+        "Тестер линии",
+        "Кабельный комплект"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "synthetic",
+        "start_location": "synthetic",
+        "start_mode": "synthetic",
+        "start_address": "synthetic",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic",
+        "available": "synthetic",
+        "unavailable_from": "synthetic",
+        "manual_fields": "synthetic"
+      },
+      "manual_fields": []
+    },
+    {
+      "id": "demo-e4",
+      "name": "Орлова Анна",
+      "start_location": {
+        "latitude": 55.6879261,
+        "longitude": 37.5407755
+      },
+      "start_mode": "home",
+      "start_address": "Домашняя стартовая точка (синтетика)",
+      "shift_start": 540,
+      "shift_end": 1320,
+      "skills": [
+        "local"
+      ],
+      "transport": "walk",
+      "equipment": [
+        "Тестер линии"
+      ],
+      "available": true,
+      "unavailable_from": null,
+      "provenance": {
+        "name": "synthetic",
+        "start_location": "synthetic",
+        "start_mode": "synthetic",
+        "start_address": "synthetic",
+        "shift_start": "synthetic",
+        "shift_end": "synthetic",
+        "skills": "synthetic",
+        "transport": "synthetic",
+        "equipment": "synthetic",
+        "available": "synthetic",
+        "unavailable_from": "synthetic",
+        "manual_fields": "synthetic"
+      },
+      "manual_fields": []
+    }
+  ],
+  "office_address": "г.Москва проезд Симферопольский, дом 7",
+  "office_location": {
+    "latitude": 55.6647568,
+    "longitude": 37.6158385
+  },
+  "office_geo_quality": "house",
+  "office_geo_note": "",
+  "settings": {
+    "requirements_version": 8,
+    "seed": 2026,
+    "time_limit_seconds": 15,
+    "solution_limit": 80,
+    "road_factor": 1.3,
+    "speeds_kmh": {
+      "car": 30.0,
+      "walk": 5.0,
+      "bicycle": 15.0,
+      "public": 20.0
+    },
+    "shift_start": 540,
+    "shift_end": 1320,
+    "durations": {
+      "Информация": 30,
+      "Мониторинг": 30,
+      "Нет линка": 45,
+      "Разрывы": 45,
+      "Низкая скорость": 45,
+      "Рост ошибок на порту": 45,
+      "IP-адрес 169...": 45,
+      "TVE/ENT. Другие ошибки": 45,
+      "Конвергенция абонента": 60,
+      "Переключение на Гбит/с": 60,
+      "Заявка на подключение": 90,
+      "Заказ подключения/Дозаказ оборудования": 90,
+      "Дозаказ оборудования": 90,
+      "Работа с кабелем": 90,
+      "Роутер. Замена техническим специалистом": 90,
+      "TVE/ENT. Замена приставки техником": 90,
+      "ТВ. Замена приставки техником": 90,
+      "Авария": 90
+    },
+    "normative_durations": {
+      "Подключение": 90,
+      "Глобальная проблема": 100,
+      "Дозаказ": 40,
+      "Локальная заявка": 50
+    },
+    "normative_service_durations": {
+      "Подключение": 70,
+      "Глобальная проблема": 80,
+      "Дозаказ": 20,
+      "Локальная заявка": 30
+    },
+    "normative_travel_mode": "separate",
+    "skill_mapping": {
+      "Локальная заявка": "local",
+      "Подключение": "connection",
+      "Дозаказ": "connection",
+      "Глобальная проблема": "emergency"
+    },
+    "routing_provider": "estimate",
+    "equipment_enabled": true,
+    "equipment_catalog": [
+      "Тестер линии",
+      "Роутер",
+      "Приставка",
+      "Кабельный комплект"
+    ],
+    "equipment_by_skill": {
+      "local": [
+        "Тестер линии"
+      ],
+      "connection": [
+        "Роутер",
+        "Кабельный комплект"
+      ],
+      "emergency": [
+        "Тестер линии",
+        "Кабельный комплект"
+      ]
+    },
+    "equipment_by_work_type": {
+      "Подключение": [
+        "Роутер",
+        "Кабельный комплект"
+      ],
+      "Глобальная проблема": [
+        "Тестер линии",
+        "Кабельный комплект"
+      ],
+      "Дозаказ": [
+        "Роутер"
+      ],
+      "Локальная заявка": [
+        "Тестер линии"
+      ]
+    },
+    "sla_enabled": false,
+    "sla_basis": "start",
+    "sla_penalty": 1,
+    "sla_risk_buffer": 15,
+    "change_penalty": 1,
+    "transport_demo_enabled": true,
+    "demo_event_time": 780,
+    "demo_urgent_duration": 80,
+    "demo_urgent_window": 120
+  },
+  "issues": [],
+  "source_files": [
+    "Югоцентр Синтетические данные.csv",
+    "Югоцентр Контрольное распределение..csv"
+  ],
+  "historical": []
+}

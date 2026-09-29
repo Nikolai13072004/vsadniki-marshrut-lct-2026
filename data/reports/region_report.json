@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-09-29T11:48:47.251916+00:00",
+  "code_sha256": {
+    "planner.py": "cdd67dab4466e0d0cc0b3dff9628edbf9b312ba50712f080578f084c39aa4328",
+    "routing.py": "f7d56b4fa4e0867a6f1b5aff3398f5efd15067dc700f531f87013dadb36895c3",
+    "models.py": "9f3fbe1bf1641921adc0e2604ccea7f794ad5157a7c7095510064d807727e771"
+  },
+  "note": "Заявки взяты из предоставленных CSV. Профили инженеров и часть ограничений подготовлены как синтетические допущения. Базовый алгоритм - простое назначение в порядке строк, не историческое контрольное распределение.",
+  "regions": [
+    {
+      "dataset_id": "east",
+      "name": "Восток",
+      "region": "Восток",
+      "jobs": 66,
+      "engineers": 12,
+      "source_file": "01-east.json",
+      "source_sha256": "c64ffb10f763b019321b911ab6b60e94aea1cb18267250202fc873ab9d1969a7",
+      "raw_input_file": "Восток Синтетические данные.csv",
+      "raw_input_sha256": "35b2e2e34ed488579ed722b55345b73989f277b9b710b66b12d01c5ec38a00b9",
+      "settings": {
+        "seed": 2026,
+        "time_limit_seconds": 15,
+        "solution_limit": 80,
+        "routing_provider": "estimate"
+      },
+      "baseline": {
+        "metrics": {
+          "assigned": 46,
+          "unassigned": 20,
+          "total": 66,
+          "urgent_assigned": 2,
+          "accident_assigned": 2,
+          "connection_assigned": 22,
+          "engineers_used": 12,
+          "distance_m": 291518,
+          "travel_minutes": 956,
+          "work_minutes": 2420,
+          "sla_late": 0,
+          "sla_risk": 0
+        },
+        "status": "feasible",
+        "calculation_seconds": 0.029
+      },
+      "optimized": {
+        "metrics": {
+          "assigned": 66,
+          "unassigned": 0,
+          "total": 66,
+          "urgent_assigned": 3,
+          "accident_assigned": 3,
+          "connection_assigned": 32,
+          "engineers_used": 7,
+          "distance_m": 180326,
+          "travel_minutes": 516,
+          "work_minutes": 3560,
+          "sla_late": 0,
+          "sla_risk": 0
+        },
+        "status": "feasible",
+        "calculation_seconds": 0.353
+      }
+    },
+    {
+      "dataset_id": "southeast",
+      "name": "Юго-восток",
+      "region": "Юго-восток",
+      "jobs": 83,
+      "engineers": 12,
+      "source_file": "02-southeast.json",
+      "source_sha256": "83682158f600d6db7b5dc6f2526e3f67341442e2ecda72849cf1b070539ab078",
+      "raw_input_file": "Юго-восток Синтетические данные.csv",
+      "raw_input_sha256": "c767a9e38f6d21568651cc4dbebe6acaf0a25f72303018a096fcf3c81fc8f331",
+      "settings": {
+        "seed": 2026,
+        "time_limit_seconds": 15,
+        "solution_limit": 80,
+        "routing_provider": "estimate"
+      },
+      "baseline": {
+        "metrics": {
+          "assigned": 47,
+          "unassigned": 36,
+          "total": 83,
+          "urgent_assigned": 5,
+          "accident_assigned": 5,
+          "connection_assigned": 19,
+          "engineers_used": 12,
+          "distance_m": 920874,
+          "travel_minutes": 2768,
+          "work_minutes": 2340,
+          "sla_late": 0,
+          "sla_risk": 0
+        },
+        "status": "feasible",
+        "calculation_seconds": 0.042
+      },
+      "optimized": {
+        "metrics": {
+          "assigned": 74,
+          "unassigned": 9,
+          "total": 83,
+          "urgent_assigned": 12,
+          "accident_assigned": 12,
+          "connection_assigned": 31,
+          "engineers_used": 11,
+          "distance_m": 674763,
+          "travel_minutes": 1992,
+          "work_minutes": 3990,
+          "sla_late": 0,
+          "sla_risk": 0
+        },
+        "status": "feasible",
+        "calculation_seconds": 0.346
+      }
+    },
+    {
+      "dataset_id": "southcenter",
+      "name": "Югоцентр",
+      "region": "Югоцентр",
+      "jobs": 56,
+      "engineers": 11,
+      "source_file": "03-southcenter.json",
+      "source_sha256": "2bb03b95405ce6dd3f57a52ce0a270f5615888944a13556a1ad3502cc59cb48d",
+      "raw_input_file": "Югоцентр Синтетические данные.csv",
+      "raw_input_sha256": "e553b5b1ad985f2ec62ffe291544a7df1c8622ef5cd80165287d95f45a53a035",
+      "settings": {
+        "seed": 2026,
+        "time_limit_seconds": 15,
+        "solution_limit": 80,
+        "routing_provider": "estimate"
+      },
+      "baseline": {
+        "metrics": {
+          "assigned": 41,
+          "unassigned": 15,
+          "total": 56,
+          "urgent_assigned": 0,
+          "accident_assigned": 0,
+          "connection_assigned": 20,
+          "engineers_used": 11,
+          "distance_m": 245472,
+          "travel_minutes": 866,
+          "work_minutes": 1970,
+          "sla_late": 0,
+          "sla_risk": 0
+        },
+        "status": "feasible",
+        "calculation_seconds": 0.027
+      },
+      "optimized": {
+        "metrics": {
+          "assigned": 56,
+          "unassigned": 0,
+          "total": 56,
+          "urgent_assigned": 0,
+          "accident_assigned": 0,
+          "connection_assigned": 29,
+          "engineers_used": 7,
+          "distance_m": 156992,
+          "travel_minutes": 432,
+          "work_minutes": 2830,
+          "sla_late": 0,
+          "sla_risk": 0
+        },
+        "status": "feasible",
+        "calculation_seconds": 0.165
+      }
+    }
+  ]
+}
