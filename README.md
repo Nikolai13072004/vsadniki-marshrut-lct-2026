@@ -1,6 +1,6 @@
 # МАРШРУТ
 
-**Команда «ВСАДНИКИ» · Кейс №13 «Билайн Бизнес» · ЛЦТ 2026**
+**Команда «ВСАДНИКИ» · Бизнес №3 «Билайн Бизнес» · ЛЦТ 2026**
 
 [![Application checks](https://github.com/Nikolai13072004/vsadniki-marshrut-lct-2026/actions/workflows/checks.yml/badge.svg)](https://github.com/Nikolai13072004/vsadniki-marshrut-lct-2026/actions/workflows/checks.yml)
 
